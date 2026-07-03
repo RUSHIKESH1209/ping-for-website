@@ -12,4 +12,4 @@ jobs:
     steps:
       - name: Ping website
         run: |
-          curl -L https://nexable-flame.vercel.app/
+          curl -L https://socialmediabackend-uchf.onrender.com
